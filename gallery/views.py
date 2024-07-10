@@ -4,7 +4,7 @@ from gallery.models import Image
 from .forms import ImageUploadForm
 from django.contrib.auth.decorators import login_required
 
-
+ 
 # Create your views here.
 
 @login_required
